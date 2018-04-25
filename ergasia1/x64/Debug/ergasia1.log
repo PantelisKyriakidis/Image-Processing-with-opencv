@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\παντελής\documents\visual studio 2015\projects\ergasia1\ergasia1\main.cpp(122): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+  ergasia1.vcxproj -> C:\Users\Παντελής\Documents\Visual Studio 2015\Projects\ergasia1\x64\Debug\ergasia1.exe
+  ergasia1.vcxproj -> C:\Users\Παντελής\Documents\Visual Studio 2015\Projects\ergasia1\x64\Debug\ergasia1.pdb (Full PDB)
